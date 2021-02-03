@@ -1,0 +1,40 @@
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\Login.baml
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\Login.g.cs
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\App.g.cs
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement_MarkupCompile.cache
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.g.resources
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.Properties.Resources.resources
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.csproj.GenerateResource.Cache
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\bin\Debug\AccountManagement.exe
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\bin\Debug\AccountManagement.pdb
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.exe
+c:\users\rumon\documents\visual studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.pdb
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountRegistration.baml
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\DisplayAccountInfo.baml
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\MessageBoxUser.baml
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountRegistration.g.cs
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\DisplayAccountInfo.g.cs
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\MessageBoxUser.g.cs
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement_Content.g.cs
+C:\Users\Rumon\Documents\Visual Studio 2010\Projects\AccountManagement\AccountManagement\bin\Debug\AccountManagement.sdf
+E:\Odesk\MemberShipAccount\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.exe
+E:\Odesk\MemberShipAccount\AccountManagement\AccountManagement\obj\x86\Debug\AccountManagement.pdb
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement.exe
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement.pdb
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\bin\Debug\AccountManagement.sdf
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\bin\Debug\AccountManagement.exe
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\bin\Debug\AccountManagement.pdb
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountRegistration.baml
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\DisplayAccountInfo.baml
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\Login.baml
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\MessageBoxUser.baml
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountRegistration.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\DisplayAccountInfo.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\Login.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\MessageBoxUser.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\App.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement_Content.g.cs
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement_MarkupCompile.cache
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement.g.resources
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement.Properties.Resources.resources
+C:\Odesk Projects\MemberShipAccount\AccountManagement - Pre\AccountManagement\obj\x86\Debug\AccountManagement.csproj.GenerateResource.Cache
